@@ -119,7 +119,9 @@ The latest version will be published on the Yok Health website.
 
 ## 13. Contact
 
-A dedicated Yok Health legal and support contact address will be provided before the app is publicly released on the App Store.
+For legal, privacy, account, or support questions related to Yok Health, contact:
+
+**yokhealth.app@gmail.com**
 
 ---
 
