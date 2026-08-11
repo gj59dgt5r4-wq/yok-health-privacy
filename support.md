@@ -36,7 +36,9 @@ Yok Health uses an account to keep your health goals and synced health summaries
 
 You can sign out from the Settings screen.
 
-You can also request permanent account deletion directly from inside the app. Account deletion is designed to remove the account and the related Yok Health cloud data.
+You can also request permanent account deletion directly from inside the app.
+
+Account deletion is designed to remove your Yok Health account and related Yok Health cloud data.
 
 ## Privacy
 
@@ -50,13 +52,19 @@ For more information, please read the Yok Health Privacy Policy.
 
 Yok Health is intended for general health, fitness, and wellness tracking.
 
-It is not a medical device and does not provide medical diagnosis, treatment, or emergency medical services.
+It is not a medical device and does not provide medical diagnosis, treatment, prescriptions, or emergency medical services.
 
-For medical concerns, symptoms, or treatment decisions, please consult a qualified healthcare professional.
+For medical concerns, symptoms, medication questions, or treatment decisions, please consult a qualified healthcare professional.
 
-## Contact
+For emergencies, contact local emergency services.
 
-A dedicated Yok Health support contact address will be provided before the app is publicly released on the App Store.
+## Contact Support
+
+For help with Yok Health, account questions, privacy questions, or technical support, contact:
+
+**yokhealth.app@gmail.com**
+
+When contacting support, please do not include passwords, authentication codes, or unnecessary sensitive health information.
 
 ---
 
